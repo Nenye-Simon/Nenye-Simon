@@ -4,8 +4,8 @@
 
 <p align="center">
   <img
-    src="https://github.com/Jane1840/Jane1840/blob/main/profile-banner.png.png?raw=true"
-    alt="Jane1840 Profile Banner"
+    src=https://github.com/Nenye-Simon/Nenye-Simon/blob/main/profile-banner.png.png?raw=true"
+    alt="Nenyecyber Profile Banner"
     width="100%"
   />
 </p>
