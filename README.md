@@ -5,7 +5,7 @@
 <p align="center">
   <img
     src=https://github.com/Nenye-Simon/Nenye-Simon/blob/main/profile-banner.png.png?raw=true"
-    alt="Nenyecyber Profile Banner"
+    alt=profile-banner.png
     width="100%"
   />
 </p>
