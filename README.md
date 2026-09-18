@@ -1,305 +1,300 @@
-<!-- Profile Banner -->
+<!-- =========================================================
+                     PROFILE BANNER
+========================================================= -->
 
 <p align="center">
-  <img src="profile-banner.png" alt="Nenyecyber Profile Banner" width="100%">
+  <img
+    src="./profile-banner.png"
+    alt="Nenyecyber Profile Banner"
+    width="100%"
+  />
 </p>
 
-<!-- Typing SVG -->
+<!-- =========================================================
+                  TYPING ANIMATION
+========================================================= -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Cybersecurity+Analyst+in+Training;Aspiring+SOC+Analyst;Ethical+Hacking+Enthusiast;Network+Security+Learner;Python+%7C+Linux+%7C+Git;Building+%26+Securing+Digital+Systems" alt="Typing SVG">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Cybersecurity+Analyst+in+Training;Ethical+Hacking+%7C+Network+Security;Python+%7C+Linux+%7C+Web+Security;Security+Analysis+%7C+Threat+Analysis;Hands-on+Labs+%7C+CTFs+%7C+Security+Projects;Learn.+Build.+Secure.+Teach."
+    alt="Typing SVG"
+  />
 </p>
 
-<h1 align="center">Hi 👋, I'm Chinenye Simon</h1>
+<!-- =========================================================
+                     INTRODUCTION
+========================================================= -->
 
-<h3 align="center">
-  🛡️ Cybersecurity Analyst in Training | 💻 Tech Enthusiast | 🔐 Ethical Hacking Learner
-</h3>
+<h1 align="center">👩🏽‍💻 Nenyecyber</h1>
 
 <p align="center">
-  <a href="https://github.com/">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Nenyecyber&style=for-the-badge&color=00F7FF" alt="Profile Views">
+  <strong>Cybersecurity Analyst in Training | Ethical Hacking | Python | Linux | Web Security</strong>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Nenyecyber&label=Profile%20Views&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
 ## 👩🏽‍💻 About Me
 
-I'm **Chinenye Simon**, a technology enthusiast and **Cybersecurity Analyst in Training** with a growing interest in protecting digital systems, analyzing security events, identifying vulnerabilities, and understanding how attacks work.
+I'm a technology enthusiast passionate about **Cybersecurity, Ethical Hacking, Programming, and Digital Education**.
 
-My journey in technology combines **cybersecurity, ethical hacking, programming, networking, Linux administration, and digital education**.
+I am focused on developing practical cybersecurity skills, building security-focused projects, and helping beginners understand technology through hands-on learning.
 
-I'm passionate about learning through practical labs and hands-on projects, documenting what I learn, and continuously developing the technical skills required to work in cybersecurity.
+I believe that **technology education should be accessible and practical**, especially for young people looking to build sustainable careers in the digital economy.
 
-### 🎯 My Current Focus
+### 🔎 Areas of Specialization
 
-* 🔐 Cybersecurity Analysis
-* 🛡️ SOC & Blue Team Operations
-* 🕵🏽 Ethical Hacking & Penetration Testing
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,python,bash,git,github,vscode" alt="Core Technologies" />
+</p>
+
+<p align="center">
+  🔐 Cybersecurity & Ethical Hacking
+  &nbsp; • &nbsp;
+  🛡️ Security Analysis
+  &nbsp; • &nbsp;
+  🐍 Python Programming
+</p>
+
+<p align="center">
+  🌐 Web Security
+  &nbsp; • &nbsp;
+  📊 Data Analysis
+  &nbsp; • &nbsp;
+  💻 Technology Education
+  &nbsp; • &nbsp;
+  📈 Forex Trading
+</p>
+
+---
+
+## 🛡️ Cybersecurity
+
+My cybersecurity interests include:
+
+* 🔐 Ethical Hacking
+* 🔎 Vulnerability Assessment
+* 🧪 Penetration Testing
 * 🌐 Network Security
-* 🐧 Linux & System Administration
-* 🧪 Security Labs & CTF Practice
-* 🐍 Python Programming
-* 📊 Security Monitoring & Log Analysis
-* 📚 Cybersecurity Research & Documentation
+* 🕸️ Web Application Security
+* 🐧 Linux Security
+* 📡 Security Monitoring
+* 🚨 Threat Analysis
+* 🔍 OSINT
+* 🛡️ Security Awareness
 
----
+I enjoy learning through **hands-on labs, practical exercises, CTFs, and security projects**.
 
-## 🧭 Areas of Specialization
+### 🧠 Cybersecurity Specializations
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Cybersecurity-00F7FF?style=for-the-badge&logo=hackthebox&logoColor=black">
-  <img src="https://img.shields.io/badge/SOC_Analysis-111111?style=for-the-badge&logo=security&logoColor=00F7FF">
-  <img src="https://img.shields.io/badge/Ethical_Hacking-111111?style=for-the-badge&logo=kalilinux&logoColor=557C94">
-  <img src="https://img.shields.io/badge/Network_Security-111111?style=for-the-badge&logo=cisco&logoColor=00F7FF">
+  <img src="https://img.shields.io/badge/Ethical%20Hacking-111111?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Ethical Hacking" />
+  <img src="https://img.shields.io/badge/Penetration%20Testing-111111?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Penetration Testing" />
+  <img src="https://img.shields.io/badge/Network%20Security-111111?style=for-the-badge&logo=cisco&logoColor=white" alt="Network Security" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=FCC624">
-  <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=3776AB">
-  <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=F05032">
-  <img src="https://img.shields.io/badge/Wireshark-111111?style=for-the-badge&logo=wireshark&logoColor=1679A7">
+  <img src="https://img.shields.io/badge/Web%20Security-111111?style=for-the-badge&logo=owasp&logoColor=white" alt="Web Security" />
+  <img src="https://img.shields.io/badge/Threat%20Analysis-111111?style=for-the-badge&logo=virustotal&logoColor=white" alt="Threat Analysis" />
+  <img src="https://img.shields.io/badge/OSINT-111111?style=for-the-badge&logo=google&logoColor=white" alt="OSINT" />
 </p>
 
 ---
 
-## 🛡️ Cybersecurity Journey
-
-```text
-                    ┌─────────────────────┐
-                    │    CYBERSECURITY    │
-                    └──────────┬──────────┘
-                               │
-          ┌────────────────────┼────────────────────┐
-          │                    │                    │
-          ▼                    ▼                    ▼
-    🔵 BLUE TEAM          🔴 RED TEAM          🌐 NETWORK
-          │                    │                    │
-          ▼                    ▼                    ▼
-    SOC Analysis        Ethical Hacking       Network Security
-    Log Analysis        Reconnaissance         Packet Analysis
-    Threat Detection    Vulnerability Testing  Traffic Analysis
-          │                    │                    │
-          └────────────────────┼────────────────────┘
-                               │
-                               ▼
-                    🔐 SECURITY ENGINEERING
-```
-
----
-
-## 💻 Technical Skills
+## 🧰 Tools & Technologies
 
 ### 🔐 Cybersecurity
 
-* Security Monitoring
-* Log Analysis
-* Threat Detection
-* Incident Analysis
-* Network Security
-* Vulnerability Assessment
-* Ethical Hacking Fundamentals
-* Security Operations Center (SOC) Concepts
-* Capture The Flag (CTF) Practice
-* Security Documentation
-
-### 🌐 Networking
-
-* TCP/IP
-* OSI Model
-* IPv4 & IPv6
-* CIDR & Subnetting
-* DNS
-* DHCP
-* HTTP/HTTPS
-* ICMP
-* ARP
-* Network Traffic Analysis
-
-### 🐧 Linux
-
-* Kali Linux
-* Ubuntu
-* Linux CLI
-* File & Directory Management
-* Permissions
-* Users & Groups
-* Bash Commands
-* Process Management
-* Networking Commands
-* Shell Scripting
-
-### 🧰 Security Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,bash,kali,wireshark,docker" alt="Cybersecurity Tools" />
+</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white">
-  <img src="https://img.shields.io/badge/Suricata-EF3B2D?style=flat-square&logoColor=white">
-  <img src="https://img.shields.io/badge/Nmap-004170?style=flat-square&logoColor=white">
-  <img src="https://img.shields.io/badge/tcpdump-333333?style=flat-square&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Suricata-EF3B2D?style=for-the-badge&logoColor=white" alt="Suricata" />
+  <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logoColor=white" alt="Nmap" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/tcpdump-333333?style=for-the-badge&logo=linux&logoColor=white" alt="tcpdump" />
 </p>
+
+**Security Stack:**
+`Kali Linux` • `Linux` • `Wireshark` • `Suricata` • `Nmap` • `tcpdump`
+
+### 💻 Programming & Development
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,bash,html,css,js,git,github,vscode" alt="Programming and Development Technologies" />
+</p>
+
+**Languages & Technologies:**
+`Python` • `Java` • `Bash` • `HTML` • `CSS` • `JavaScript` • `Git` • `GitHub`
+
+### 📊 Data & Analysis
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python" alt="Python Data Analysis" />
+</p>
+
+`Python` • `Data Analysis` • `Data Visualization` • `Problem Solving`
 
 ---
 
-## 👩🏽‍💻 Programming & Development
+## 📚 Currently Learning
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,bash,git,github,linux,vscode" alt="Programming and Development Skills">
-</p>
+I'm continuously improving my skills in:
 
-My programming interests include:
-
-* 🐍 Python
-* ☕ Java
-* 🖥️ Bash/Shell
-* 🗃️ SQL & Databases
-* 🌐 Web Technologies
-* 🔧 Automation & Scripting
+* 🔐 Advanced Cybersecurity
+* 🕵️ Ethical Hacking & Penetration Testing
+* 🌐 Web Application Security
+* 🐧 Linux Administration & Security
+* 🐍 Python for Cybersecurity
+* 📊 Data Analysis
+* ☁️ Cloud Security
+* 🤖 Artificial Intelligence & Cybersecurity
+* 🧪 Security Labs & CTFs
+* 🔎 Threat Detection & Analysis
 
 ---
 
-## 🧪 Hands-On Cybersecurity Labs
+## 🎯 My Mission
 
-I believe cybersecurity is best learned through **practical experience**.
+### **Learn. Build. Secure. Teach.**
 
-Some of the areas I work with include:
+My goal is to continuously develop practical technology skills, build useful projects, and help more people discover opportunities in the technology industry.
 
-| Area                | Practical Experience                            |
-| ------------------- | ----------------------------------------------- |
-| 🔎 Network Analysis | Wireshark, tcpdump, packet inspection           |
-| 🛡️ IDS/IPS         | Suricata configuration and custom rules         |
-| 🐧 Linux            | Kali Linux, CLI, permissions and administration |
-| 🌐 Networking       | TCP/IP, ARP, ICMP, CIDR and subnetting          |
-| 🔍 Reconnaissance   | Network discovery and service enumeration       |
-| 🚨 Detection        | Security alerts and log analysis                |
-| 🧪 Security Testing | Controlled vulnerability and attack simulations |
-| 📁 Documentation    | GitHub-based security lab documentation         |
+I am particularly passionate about helping beginners take their **first steps into cybersecurity and technology** through practical learning and accessible resources.
 
 ---
 
 ## 📂 Featured Projects
 
-> 🚧 I'm continuously building and documenting cybersecurity projects.
+Here are some of the areas you can expect to find in my repositories:
 
-### 🛡️ Suricata Intrusion Detection Lab
+### 🔐 Cybersecurity Labs
 
-Hands-on work with **Suricata**, including custom detection rules, ICMP monitoring, TCP traffic detection, HTTP inspection, and security alert analysis.
+Hands-on cybersecurity experiments, notes, configurations, and practical exercises.
 
-**Focus:**
-`IDS` `Network Security` `Suricata` `Custom Rules` `Traffic Analysis`
+### 🐍 Python Projects
 
----
+Automation, scripting, cybersecurity utilities, and beginner-friendly Python projects.
 
-### 🔎 Network Traffic Analysis Lab
+### 🌐 Web Security Projects
 
-Practical packet analysis using tools such as **Wireshark** and **tcpdump** to understand network communication and identify relevant traffic patterns.
+Projects focused on understanding and improving web application security.
 
-**Focus:**
-`Wireshark` `tcpdump` `Packet Analysis` `TCP/IP` `Network Forensics`
+### 📊 Data Analysis
 
----
+Projects involving data exploration, analysis, visualization, and practical problem solving.
 
-### 🐧 Linux & Security Operations Labs
+### 📚 Learning Resources
 
-Hands-on Linux exercises involving permissions, users, directories, shell commands, file integrity, Git, and security-oriented command-line workflows.
-
-**Focus:**
-`Linux` `Bash` `Git` `System Administration`
+Notes, documentation, tutorials, lab reports, and resources from my technology learning journey.
 
 ---
 
-## 📈 GitHub Activity
+## 🧪 Hands-on Cybersecurity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nenyecyber&show_icons=true&theme=tokyonight&hide_border=true" alt="Nenyecyber GitHub Stats">
-</p>
+I believe cybersecurity is best learned through **practical experience**.
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nenyecyber&theme=tokyonight&hide_border=true" alt="GitHub Streak">
-</p>
-
----
-
-## 📊 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nenyecyber&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Graph">
-</p>
-
----
-
-## 🎓 Currently Learning
+My learning projects and labs cover areas such as:
 
 ```text
-🔐 Cybersecurity
-████████████████████░░  90%
-
-🛡️ SOC / Blue Team
-██████████████████░░░░  80%
-
-🌐 Network Security
-██████████████████░░░░  80%
-
-🐧 Linux
-██████████████████░░░░  80%
-
-🐍 Python
-███████████████░░░░░░░  70%
-
-🔴 Ethical Hacking
-██████████████░░░░░░░░  70%
+🔎 Reconnaissance & Enumeration
+        ↓
+🌐 Network & Web Security
+        ↓
+🧪 Vulnerability Assessment
+        ↓
+🔐 Security Testing
+        ↓
+📡 Traffic & Log Analysis
+        ↓
+🚨 Threat Detection
+        ↓
+🛡️ Security Monitoring
+        ↓
+📝 Documentation & Reporting
 ```
 
 ---
 
-## 🌱 My Goals
+## 📈 My GitHub Journey
 
-* Become a highly skilled cybersecurity professional
-* Develop strong SOC and security-analysis capabilities
-* Build practical cybersecurity projects
-* Improve my penetration-testing knowledge
-* Strengthen my networking and Linux expertise
-* Contribute to open-source security projects
-* Document and share my cybersecurity learning journey
-* Continue developing secure software and automation skills
+I use GitHub to document my learning journey, build practical projects, and create a portfolio that demonstrates my technical skills.
+
+Every project represents an opportunity to **learn something new, solve a problem, and become better at what I do.**
+
+> **Learning by doing. Building by solving. Growing through every challenge.**
 
 ---
 
-## 📚 Learning Philosophy
+## 📊 GitHub Statistics
 
-> **"Learn. Practice. Document. Improve. Repeat."**
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Nenyecyber&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+    height="180"
+    alt="Nenyecyber GitHub Statistics"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nenyecyber&layout=compact&theme=tokyonight&hide_border=true"
+    height="180"
+    alt="Nenyecyber Top Languages"
+  />
+</p>
 
-Cybersecurity is a constantly evolving field, so I believe continuous learning, hands-on practice, curiosity, and responsible experimentation are essential.
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=Nenyecyber&theme=tokyonight&hide_border=true"
+    alt="Nenyecyber GitHub Contribution Streak"
+  />
+</p>
 
-I use this GitHub profile to document my progress, projects, labs, experiments, and lessons learned throughout my cybersecurity journey.
+---
+
+## 🐍 Contribution Activity
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"
+    alt="GitHub Contribution Snake"
+  />
+</p>
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm always interested in connecting with other people passionate about:
+I'm always open to connecting with:
 
-* 🔐 Cybersecurity
-* 🛡️ SOC & Blue Team
-* 🔴 Ethical Hacking
-* 🌐 Networking
-* 💻 Programming
-* 🧑🏽‍💻 Technology
-* 📚 Learning & Knowledge Sharing
+* 🛡️ Cybersecurity professionals
+* 💻 Developers
+* 🌐 Technology enthusiasts
+* 🎓 Students and beginners
+* 🔬 Researchers
+* 🤝 Potential collaborators
+
+If you're interested in **cybersecurity, technology, education, or collaboration**, feel free to connect.
 
 <p align="center">
-  <strong>Let's learn, build, secure, and grow together. 🛡️</strong>
+  <a href="https://github.com/Nenyecyber">
+    <img src="https://img.shields.io/badge/GitHub-Nenyecyber-181717?style=for-the-badge&logo=github" alt="GitHub Profile" />
+  </a>
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:111111&height=120&section=footer" alt="Footer">
-</p>
+## ⚡ Fun Fact
+
+> **Cybersecurity isn't just about breaking things.
+> It's about understanding how things work well enough to protect them.** 🔐
+
+---
+
+<h3 align="center">🚀 LEARN • BUILD • SECURE • TEACH</h3>
 
 <p align="center">
-  <b>© 2026 Nenyecyber | Cybersecurity Analyst in Training</b>
+  <strong>© 2026 Nenyecyber</strong>
 </p>
