@@ -172,7 +172,7 @@ Through continuous learning, hands-on cybersecurity practice, education, mentors
   <a href="https://www.linkedin.com/in/nenye-simon-6418bb1a8">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:YOUR_EMAIL_ADDRESS">
+  <a href="mailto:simon.chinenye197@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="YOUR_YOUTUBE_URL">
