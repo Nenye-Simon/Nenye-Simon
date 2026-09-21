@@ -184,7 +184,7 @@ Through continuous learning, hands-on cybersecurity practice, education, mentors
  <a href="https://web.facebook.com/chinenye.simon.92">
    <img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook" alt="Facebook" />
  </a>
-<a href="YOUR_TIKTOK_URL"> 
+<a href="https://www.tiktok.com/@chinenyesimon">
   <img src="https://img.shields.io/badge/TikTok-Follow-000000?style=for-the-badge&logo=tiktok" alt="TikTok" />
  </a> 
 </p>
