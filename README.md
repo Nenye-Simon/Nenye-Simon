@@ -1,232 +1,131 @@
-<!-- =========================================================
-                     PROFILE BANNER
-========================================================= -->
-
 <p align="center">
   <img
-    src="./profile-banner.png"
-    alt="Nenyecyber Profile Banner"
+    src="https://raw.githubusercontent.com/Nenye-Simon/Nenye-Simon/main/profile-banner.png"
+    alt="Nenyecyber Cybersecurity Profile Banner"
     width="100%"
   />
 </p>
 
-<!-- =========================================================
-                  TYPING ANIMATION
-========================================================= -->
-
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Cybersecurity+Analyst+in+Training;Ethical+Hacking+%7C+Network+Security;Python+%7C+Linux+%7C+Web+Security;Security+Analysis+%7C+Threat+Analysis;Hands-on+Labs+%7C+CTFs+%7C+Security+Projects;Learn.+Build.+Secure.+Teach."
-    alt="Typing SVG"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=1200&color=39FF14&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=120&lines=Cybersecurity+Analyst;Director+of+Training+%40+Webstack+ICT+Global;Community+Manager+%40+MindTheGap+Anambra;ICANN+Anti-Phishing+Volunteer;Artificial+Intelligence+Advocate;Linux+Enthusiast;Ethical+Hacker+in+Training;Public+Speaker+and+Tech+Mentor;Forex+Trader+%26+Financial+Market+Analyst;Empowering+Africa+Through+Technology+and+Cybersecurity"
+    alt="Nenyecyber professional roles"
   />
 </p>
 
-<!-- =========================================================
-                     INTRODUCTION
-========================================================= -->
+---
 
-<h1 align="center">👩🏽‍💻 Nenyecyber</h1>
+## 👋 Hi, I'm Nenyecyber
 
-<p align="center">
-  <strong>Cybersecurity Analyst in Training | Ethical Hacking | Python | Linux | Web Security</strong>
-</p>
+I'm **Nenye-Simon**, a cybersecurity professional in training focused on building practical skills across **cybersecurity, ethical hacking, technology education, artificial intelligence, Linux, and digital transformation**.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nenyecyber&label=Profile%20Views&style=flat" alt="Profile Views" />
-</p>
+I am passionate about learning through hands-on practice, sharing knowledge, mentoring beginners, and contributing to a stronger digital ecosystem through practical technology education.
 
 ---
 
 ## 👩🏽‍💻 About Me
 
-I'm a technology enthusiast passionate about **Cybersecurity, Ethical Hacking, Programming, and Digital Education**.
-
-I am focused on developing practical cybersecurity skills, building security-focused projects, and helping beginners understand technology through hands-on learning.
-
-I believe that **technology education should be accessible and practical**, especially for young people looking to build sustainable careers in the digital economy.
-
-### 🔎 Areas of Specialization
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,python,bash,git,github,vscode" alt="Core Technologies" />
-</p>
-
-<p align="center">
-  🔐 Cybersecurity & Ethical Hacking
-  &nbsp; • &nbsp;
-  🛡️ Security Analysis
-  &nbsp; • &nbsp;
-  🐍 Python Programming
-</p>
-
-<p align="center">
-  🌐 Web Security
-  &nbsp; • &nbsp;
-  📊 Data Analysis
-  &nbsp; • &nbsp;
-  💻 Technology Education
-  &nbsp; • &nbsp;
-  📈 Forex Trading
-</p>
+* 🔐 Building my career in **Cybersecurity** with a strong focus on practical learning.
+* 🛡️ Developing hands-on skills in **ethical hacking, security analysis, and vulnerability assessment**.
+* 🧪 Enjoying controlled cybersecurity labs, practical exercises, and security research.
+* 🎓 Teaching and mentoring beginners in **technology and cybersecurity**.
+* 🌍 Passionate about helping young people develop relevant and practical digital skills.
+* 🤖 Exploring the intersection of **Cybersecurity, Artificial Intelligence, and Technology Education**.
+* 🐧 Building stronger practical experience with **Linux and security-focused tools**.
+* 🤝 Interested in **community building, mentorship, and knowledge sharing**.
 
 ---
 
 ## 🛡️ Cybersecurity
 
-My cybersecurity interests include:
+My current cybersecurity areas of interest and development include:
 
-* 🔐 Ethical Hacking
-* 🔎 Vulnerability Assessment
-* 🧪 Penetration Testing
-* 🌐 Network Security
-* 🕸️ Web Application Security
-* 🐧 Linux Security
-* 📡 Security Monitoring
-* 🚨 Threat Analysis
-* 🔍 OSINT
-* 🛡️ Security Awareness
+* Soc Analysis
+* Penetration Testing
+* Vulnerability Assessment
+* Network Security
+* Web Application Security
+* Security Analysis
+* Security Awareness
+* Linux Security
+* Reconnaissance
+* Threat Analysis
 
-I enjoy learning through **hands-on labs, practical exercises, CTFs, and security projects**.
-
-### 🧠 Cybersecurity Specializations
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Ethical%20Hacking-111111?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Ethical Hacking" />
-  <img src="https://img.shields.io/badge/Penetration%20Testing-111111?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Penetration Testing" />
-  <img src="https://img.shields.io/badge/Network%20Security-111111?style=for-the-badge&logo=cisco&logoColor=white" alt="Network Security" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Web%20Security-111111?style=for-the-badge&logo=owasp&logoColor=white" alt="Web Security" />
-  <img src="https://img.shields.io/badge/Threat%20Analysis-111111?style=for-the-badge&logo=virustotal&logoColor=white" alt="Threat Analysis" />
-  <img src="https://img.shields.io/badge/OSINT-111111?style=for-the-badge&logo=google&logoColor=white" alt="OSINT" />
-</p>
+> **Learning approach:** Understand the technology → Practice in controlled environments → Analyze the results → Document the lessons → Improve continuously.
 
 ---
 
 ## 🧰 Tools & Technologies
 
-### 🔐 Cybersecurity
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,kali,wireshark,docker" alt="Cybersecurity Tools" />
+  <img src="https://skillicons.dev/icons?i=kali,linux,nmap,metasploit,burpsuite,zap,python,bash,git,github,vscode,html,css&perline=7" alt="Cybersecurity tools and technologies" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Suricata-EF3B2D?style=for-the-badge&logoColor=white" alt="Suricata" />
-  <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logoColor=white" alt="Nmap" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
-  <img src="https://img.shields.io/badge/tcpdump-333333?style=for-the-badge&logo=linux&logoColor=white" alt="tcpdump" />
-</p>
+### Security & Networking
 
-**Security Stack:**
-`Kali Linux` • `Linux` • `Wireshark` • `Suricata` • `Nmap` • `tcpdump`
+`Kali Linux` · `Nmap` · `Metasploit` · `Burp Suite` · `OWASP ZAP` · `Searchsploit` · `Websploit`
 
-### 💻 Programming & Development
+### Programming & Scripting
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,bash,html,css,js,git,github,vscode" alt="Programming and Development Technologies" />
-</p>
+`Python` · `Bash` · `HTML` · `CSS`
 
-**Languages & Technologies:**
-`Python` • `Java` • `Bash` • `HTML` • `CSS` • `JavaScript` • `Git` • `GitHub`
+### Development & Workflow
 
-### 📊 Data & Analysis
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python" alt="Python Data Analysis" />
-</p>
-
-`Python` • `Data Analysis` • `Data Visualization` • `Problem Solving`
+`Git` · `GitHub` · `VS Code` · `Linux`
 
 ---
 
 ## 📚 Currently Learning
 
-I'm continuously improving my skills in:
+I am continuously developing my technical knowledge through structured learning and hands-on practice.
 
-* 🔐 Advanced Cybersecurity
-* 🕵️ Ethical Hacking & Penetration Testing
+* 🔐 Advanced Ethical Hacking
+* 🛡️ Penetration Testing
 * 🌐 Web Application Security
-* 🐧 Linux Administration & Security
+* 🌐 Network Security
+* 🔎 Vulnerability Assessment
 * 🐍 Python for Cybersecurity
-* 📊 Data Analysis
-* ☁️ Cloud Security
-* 🤖 Artificial Intelligence & Cybersecurity
-* 🧪 Security Labs & CTFs
-* 🔎 Threat Detection & Analysis
+* 🐧 Linux
+* 🤖 Artificial Intelligence
+* ⚙️ Security Automation
+
+> **Roadmap:** Learn the fundamentals → Build practical capability → Apply knowledge responsibly → Document the journey.
 
 ---
 
-## 🎯 My Mission
+## 🧪 Hands-On Cybersecurity
 
-### **Learn. Build. Secure. Teach.**
+I believe cybersecurity skills are strengthened through practical experience in controlled and authorized environments.
 
-My goal is to continuously develop practical technology skills, build useful projects, and help more people discover opportunities in the technology industry.
+My hands-on learning includes:
 
-I am particularly passionate about helping beginners take their **first steps into cybersecurity and technology** through practical learning and accessible resources.
+* 🐧 **Kali Linux**
+* 💻 **Metasploitable 2**
+* 🔎 Network reconnaissance
+* 🔍 Vulnerability discovery
+* 🌐 Web application security testing
+* 🧪 Exploitation in authorized laboratory environments
+* 🛡️ Security analysis
+* 📝 Documentation of technical findings
 
----
-
-## 📂 Featured Projects
-
-Here are some of the areas you can expect to find in my repositories:
-
-### 🔐 Cybersecurity Labs
-
-Hands-on cybersecurity experiments, notes, configurations, and practical exercises.
-
-### 🐍 Python Projects
-
-Automation, scripting, cybersecurity utilities, and beginner-friendly Python projects.
-
-### 🌐 Web Security Projects
-
-Projects focused on understanding and improving web application security.
-
-### 📊 Data Analysis
-
-Projects involving data exploration, analysis, visualization, and practical problem solving.
-
-### 📚 Learning Resources
-
-Notes, documentation, tutorials, lab reports, and resources from my technology learning journey.
+All offensive-security activities are approached for **ethical, educational, and authorized security testing purposes**.
 
 ---
 
-## 🧪 Hands-on Cybersecurity
+## 🚀 Featured Projects
 
-I believe cybersecurity is best learned through **practical experience**.
+I am building and documenting projects as I progress through my cybersecurity journey.
 
-My learning projects and labs cover areas such as:
+> Replace the placeholders below with your actual repository links as projects become available.
 
-```text
-🔎 Reconnaissance & Enumeration
-        ↓
-🌐 Network & Web Security
-        ↓
-🧪 Vulnerability Assessment
-        ↓
-🔐 Security Testing
-        ↓
-📡 Traffic & Log Analysis
-        ↓
-🚨 Threat Detection
-        ↓
-🛡️ Security Monitoring
-        ↓
-📝 Documentation & Reporting
-```
-
----
-
-## 📈 My GitHub Journey
-
-I use GitHub to document my learning journey, build practical projects, and create a portfolio that demonstrates my technical skills.
-
-Every project represents an opportunity to **learn something new, solve a problem, and become better at what I do.**
-
-> **Learning by doing. Building by solving. Growing through every challenge.**
+| Area | Project                              | Repository                                            |
+| ---- | ------------------------------------ | ----------------------------------------------------- |
+| 🔐   | **Cybersecurity Labs**               | `[Repository Link](YOUR_CYBERSECURITY_LABS_URL)`      |
+| 🐍   | **Python Security Projects**         | `[Repository Link](YOUR_PYTHON_SECURITY_PROJECT_URL)` |
+| 🌐   | **Web Security Projects**            | `[Repository Link](YOUR_WEB_SECURITY_PROJECT_URL)`    |
+| 🔎   | **Vulnerability Research**           | `[Repository Link](YOUR_VULNERABILITY_RESEARCH_URL)`  |
+| 🛡️  | **Security Automation**              | `[Repository Link](YOUR_SECURITY_AUTOMATION_URL)`     |
+| 📚   | **Cybersecurity Learning Resources** | `[Repository Link](YOUR_CYBERSECURITY_RESOURCES_URL)` |
 
 ---
 
@@ -234,67 +133,68 @@ Every project represents an opportunity to **learn something new, solve a proble
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Nenyecyber&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
-    height="180"
-    alt="Nenyecyber GitHub Statistics"
+    src="https://github-readme-stats.vercel.app/api?username=Nenye-Simon&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github"
+    height="170"
+    alt="Nenye-Simon GitHub statistics"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nenyecyber&layout=compact&theme=tokyonight&hide_border=true"
-    height="180"
-    alt="Nenyecyber Top Languages"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nenye-Simon&layout=compact&hide_border=true&theme=github_dark"
+    height="170"
+    alt="Nenye-Simon top programming languages"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=Nenyecyber&theme=tokyonight&hide_border=true"
-    alt="Nenyecyber GitHub Contribution Streak"
+    src="https://streak-stats.demolab.com?user=Nenye-Simon&theme=dark&hide_border=true"
+    alt="Nenye-Simon GitHub contribution streak"
   />
 </p>
 
 ---
 
-## 🐍 Contribution Activity
+## 💡 My Philosophy
 
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"
-    alt="GitHub Contribution Snake"
-  />
-</p>
+### **Learn → Build → Secure → Share → Empower**
+
+I believe technology becomes more meaningful when knowledge is transformed into practical skills.
+
+Through continuous learning, hands-on cybersecurity practice, education, mentorship, and knowledge sharing, I aim to help people build meaningful careers while contributing to a safer and more capable digital environment.
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm always open to connecting with:
-
-* 🛡️ Cybersecurity professionals
-* 💻 Developers
-* 🌐 Technology enthusiasts
-* 🎓 Students and beginners
-* 🔬 Researchers
-* 🤝 Potential collaborators
-
-If you're interested in **cybersecurity, technology, education, or collaboration**, feel free to connect.
-
 <p align="center">
-  <a href="https://github.com/Nenyecyber">
-    <img src="https://img.shields.io/badge/GitHub-Nenyecyber-181717?style=for-the-badge&logo=github" alt="GitHub Profile" />
+  <a href="https://github.com/Nenye-Simon">
+    <img src="https://img.shields.io/badge/GitHub-Nenye--Simon-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:YOUR_EMAIL_ADDRESS">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="YOUR_YOUTUBE_URL">
+    <img src="https://img.shields.io/badge/YouTube-Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  <a href="YOUR_PERSONAL_WEBSITE_URL">
+    <img src="https://img.shields.io/badge/Website-Visit-39FF14?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Personal Website" />
   </a>
 </p>
 
 ---
 
-## ⚡ Fun Fact
+## 🌍 Building With Purpose
 
-> **Cybersecurity isn't just about breaking things.
-> It's about understanding how things work well enough to protect them.** 🔐
+I'm documenting my journey from **learning cybersecurity fundamentals to building practical security projects**, while using technology education and mentorship to help others develop their own digital skills.
 
----
-
-<h3 align="center">🚀 LEARN • BUILD • SECURE • TEACH</h3>
+**Learn continuously. Build practically. Secure responsibly. Share knowledge. Empower others.**
 
 <p align="center">
-  <strong>© 2026 Nenyecyber</strong>
+  <b>🔐 Cybersecurity • 🐧 Linux • 🐍 Python • 🤖 AI • 🎓 Technology Education • 🌍 Digital Empowerment</b>
+</p>
+
+<p align="center">
+  <i>© Nenye-Simon · Nenyecyber</i>
 </p>
